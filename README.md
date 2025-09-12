@@ -1,3 +1,16 @@
+<div align="center">
+   <h1>Virtual Try On Top Paper implementation</h1>
+</div>
+
+## Welcome to the [MiniAiLive](https://www.miragic.ai/)!
+A collection of state-of-the-art virtual try-on models based on top research papers, with ready-to-use code and demos.
+We published website and mobile app on google play store!!
+
+## Virtual Try On Clothes App
+<a href="https://play.google.com/store/apps/details?id=com.miragic.miragicdressing" target="_blank">
+  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
+</a>
+
 # A Curated List of Awesome Virtual Try-on (VTON) Research! <img src='awesome.png' width='37'>
 A curated list of awesome research papers, projects, code, datasets, workshops, etc. related to virtual try-on (VTON).
 
